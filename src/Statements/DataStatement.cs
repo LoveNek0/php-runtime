@@ -1,4 +1,5 @@
 using PHP.Runtime.Memory;
+using PHP.Runtime.Memory.Containers;
 
 namespace PHP.Runtime.Statements;
 
